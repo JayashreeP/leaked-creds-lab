@@ -1,8 +1,8 @@
 import boto3
 
 # TODO: move to environment variables later
-AWS_ACCESS_KEY_ID = "AKIA6N5B4QUEOSQD5I4K"
-AWS_SECRET_ACCESS_KEY = "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"
+AWS_ACCESS_KEY_ID = ""
+AWS_SECRET_ACCESS_KEY = ""
 REGION = "ap-south-1"
 
 client = boto3.client(
